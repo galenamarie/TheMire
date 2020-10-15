@@ -1,0 +1,11 @@
+
+body {
+  background-color: black;
+
+}
+h1 {
+  color: #83F759;
+}
+p {
+  color: white;
+}
